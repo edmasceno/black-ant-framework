@@ -1,4 +1,4 @@
-# 🐜 Black Ant Framework (Project Chimera)
+# 🐜 Black Ant Framework 
 
 **Black Ant** is an automated Python framework designed for rapid static triage, Indicator of Compromise (IoC) extraction, and tactical capability analysis of suspicious artifacts and malicious installers. Engineered as the deep-dissection and reverse engineering wing of **Project Chimera** (alongside *Salamander* and *Crow*), Black Ant unravels multi-layered, obfuscated payloads from the inside out.
 
